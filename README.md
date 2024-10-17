@@ -1,6 +1,6 @@
 # Treasure_Hunt
 
-[Project LogBook and Demo Videos](https://intro.nyuadim.com/2023/05/08/final-project-final-report/)
+[Logbook and Thought Procecsses](https://intro.nyuadim.com/2023/05/08/final-project-final-report/)
 
 This is a physical computing game I made using p5js and Arduino IDE. 
 
